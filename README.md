@@ -1,0 +1,3 @@
+# oelg
+
+`pip install pyautogui`
